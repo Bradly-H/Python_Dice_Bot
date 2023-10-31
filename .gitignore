@@ -1,0 +1,6 @@
+.env
+
+# stop all pycharm folders
+venv
+.idea
+__pycache__
